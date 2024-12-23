@@ -21,5 +21,3 @@ The code is organized into seven listings, each designed to perform specific com
 This repository aims to provide a reproducible implementation of the computations discussed in the associated paper.
 
 You are welcome to modify, adapt, and extend this code for your research or projects. If you do so, please cite the original source by referencing the paper [arXiv:2412.08260](https://arxiv.org/abs/2412.08260), in order to ensure  proper acknowledgment of the original work.  For any questions or clarifications, please contact the authors via the details provided in the paper.
-
-#GitHub

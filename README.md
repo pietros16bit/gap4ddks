@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/907463792.svg)](https://doi.org/10.5281/zenodo.14561464)
+
 # Diagonal Double Kodaira Fibrations: GAP4 Code
 
 This repository contains the ancillary GAP4 code accompanying the paper "Groups of order 64 and non-homeomorphic double Kodaira fibrations with the same biregular invariants", by Francesco Polizzi and Pietro Sabatino, see the  preprint [arXiv:2412.08260](https://arxiv.org/abs/2412.08260).

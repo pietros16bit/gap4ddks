@@ -8,17 +8,17 @@ For detailed explanations and mathematical background, please refer to the paper
 
 The code is organized into seven listings, each designed to perform specific computations related to diagonal double Kodaira fibrations. Below is an overview of the functionality provided by each listing:
 
-- **Function_Checkstructures.g.**: Introduces the CheckStructures function, which computes the number of diagonal double Kodaira fibrations on a given finite group, if any. 
+- **Part 1** (`Function_Checkstructures.g`): Introduces the CheckStructures function, which computes the number of diagonal double Kodaira fibrations on a given finite group, if any. 
 
-- **Exclude_54.g**: Utilizes the CheckStructures function to exclude two groups of order 54 from consideration.
+- **Part 2** (`Exclude_54.g`): Utilizes the CheckStructures function to exclude two groups of order 54 from consideration.
 
-- **Order_64.g** and **Structures_order_64.g**: Select candidate groups of order 64.
+- **Part 3 & 4** (`Order_64.g` and `Structures_order_64.g`, respectively): Select candidate groups of order 64.
 
-- **Structures_order_32.g**: Generates the complete list of structures existing in the two extra-special groups of order 32.
+- **Part 5** (`Structures_order_32.g`): Generates the complete list of structures existing in the two extra-special groups of order 32.
 
-- **G_64_199_detailed_analysis.g**: Computes the lifting of structures from an extra-special group of order 32 to an overgroup of order 64.
+- **Part 6** (`G_64_199_detailed_analysis.g`): Computes the lifting of structures from an extra-special group of order 32 to an overgroup of order 64.
 
-- **Fundamental_group.g**: Calculates the first homology group for the resulting Kodaira doubly fibred surface.
+- **Part 7** (`Fundamental_group.g`): Calculates the first homology group for the resulting Kodaira doubly fibred surface.
 
 This repository aims to provide a reproducible implementation of the computations discussed in the associated paper.
 
